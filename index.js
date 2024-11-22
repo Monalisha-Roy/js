@@ -50,7 +50,7 @@ console.log(selectedColors[2]);
 
 
 //FUNCTIONS
-Performing a task
+//Performing a task
 function greet(name, lastname) {
     console.log('Hello ' + name + " " + lastname);
 }
@@ -64,4 +64,4 @@ function square(number) {
 }
 
 console.log(square(79));
-console.log is also a function call;
+//console.log is also a function call;
